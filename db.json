@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Glenna",
+      "lastName": "Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "mobile": "(775)976-6794",
+      "salary": "78,000"
+    },
+    {
+      "id": 2,
+      "firstName": "Clementina",
+      "lastName": "DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "mobile": "024-648-3804",
+      "salary": "98,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Leanne",
+      "lastName": "Graham",
+      "email": "Sincere@april.biz",
+      "mobile": "1-770-736-8031",
+      "salary": "75,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
